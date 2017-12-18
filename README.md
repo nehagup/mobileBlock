@@ -1,0 +1,8 @@
+In this era, consumers are becoming more and more interested in the stories behind a product and do not settle with only the quality of it. Ensuring the authenticity/appellation of origin of that and making visible the process that reminds behind we are able to give more value to a brand's product.
+
+This application is to keep tracking of products from the raw materials (OEM warehouse) to the (customer) the Automobile manufacturer stage. All the documents involved are permanently stored on Blockchain and the payments are released automatically when all the parties agree to the uploaded documents and condidtions defined. This system is powered by the Ethereum Blockchain, so it's fully distributed, immutable and auditable. Every Product in SCTS is represented in a Smart Contract, which keeps track of actions being made by Ethereum accounts. The community in charge of SCTS (could be Indian government or a consortium) can register this account as official SCTS authenticaton, so their identity is stored in the Blockchain being impossible for fake producers or suppliers to cheat and sell products in the name of a registered Brand.
+
+But there's more. Anyone will be also able to introduce the code of a SCTS Product Handler and see all the actions this individual or institution has performed on SCTS Products, empowering a more transparent and fair global economic system.
+This repository contains the source code for SCTS application. SCTS stands for "Supply Chain Tracking System". 
+We used for this project Ethereum Smart Contracts (written in Solidity), and a little Node.js backend server along with IPFS protocol to fetch the hash address. also the blockchain transactions are sent to Ethereum via Geth client.
+
